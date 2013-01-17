@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\bin\Debug\RssSharpSimple.exe
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\bin\Debug\RssSharpSimple.pdb
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\RssSharpSimple_MarkupCompile.cache
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\RssSharpSimple.g.resources
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\RssSharpSimple.exe
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\RssSharpSimple.pdb
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\Home.baml
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Debug\Home.g.cs

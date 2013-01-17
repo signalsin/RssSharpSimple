@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\bin\Release\RssSharpSimple.exe
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\Window1.baml
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\Window1.g.cs
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\App.g.cs
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\RssSharpSimple_MarkupCompile.cache
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\RssSharpSimple.g.resources
+C:\Users\Michael\Documents\SharpDevelop Projects\RssSharpSimple\RssSharpSimple\obj\Release\RssSharpSimple.exe
